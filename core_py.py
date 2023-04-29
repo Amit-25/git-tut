@@ -8,3 +8,6 @@ def hello_world():
 
 def hello_world_1():
     print('Skip Stagging Area')
+
+def check_commit():
+    print('Check commit')
